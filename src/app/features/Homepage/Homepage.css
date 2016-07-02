@@ -1,0 +1,118 @@
+body,html{
+background-color: black;
+  color:white;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height:1.2;
+}
+.posFixedDemo{
+  position:fixed;
+}
+.menudemo{
+  color:white;
+  border:1px solid red;
+  width:100px;
+  background-color:red;
+  margin:20px;
+  display:inline;
+
+}
+.margindemo{
+  width:200px;
+  height:300px;
+  margin:10px;
+  padding:10px;
+  border:1px solid white;
+  display:inline-block;
+}
+.game-img{
+  background-image: url(pics/journey2l.jpg);
+}
+.game-img2{
+  background-image: url(pics/1.jpg);
+}
+.game-img3{
+  background-image: url(pics/2.jpg);
+}
+.game-img1{
+  background-image: url(pics/3.jpg);
+}
+.game-img4{
+  background-image: url(pics/4.jpg);
+}
+.imag{
+  background-image: url(pics/9.jpg);
+}
+.imag1{
+  background-image: url(pics/01.jpg);
+}
+.imag2{
+  background-image: url(pics/7.jpg);
+}
+.imag3{
+  background-image: url(pics/6.jpg);
+}
+.imag4{
+  background-image: url(pics/02.jpg);
+}
+.game-imag{
+  background-image: url(pics/005.jpg);
+}
+.game-imag1{
+  background-image: url(pics/004.jpg);
+}
+.game-imag2{
+  background-image: url(pics/003.jpg);
+}
+.game-imag3{
+  background-image: url(pics/002.jpg);
+}
+.game-imag4{
+  background-image: url(pics/001.jpg);
+}
+
+
+
+
+
+
+.game-imag5{
+  background-image: url(pics/walk.jpeg);
+}
+.game-imag6{
+  background-image: url(pics/big.jpg);
+}
+.game-imag7{
+  background-image: url(pics/0001.jpg);
+}
+.game-imag8{
+  background-image: url(pics/0002.jpg);
+}
+.game-imag9{
+  background-image: url(pics/0003.jpg);
+}
+.main{
+  color:red;
+  text-align:left;
+  height:50px;
+}
+
+.acc-drop{
+  width:100%;
+  cursor: pointer;
+}
+.btn {
+  background-color:#761c19;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  text-align:right;
+
+}
+.button-demo {
+  position: relative;
+  display: inline-block;
+  padding: 30px;
+}
+
+
